@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Output
+json/
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+*.egg-info/
+dist/
+build/
